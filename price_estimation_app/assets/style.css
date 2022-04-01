@@ -1,0 +1,30 @@
+body{
+background-color:#eff5f8 !important
+}
+.main-div{
+  margin-top:3% !important;
+  margin: auto;
+  width: 30%;
+  border: 5px solid #ff0000;
+  border-radius:3%;
+  padding: 10px;
+  background-color: rgb(15, 237, 196)
+}
+
+.sub-div{
+  margin: auto;
+  width: 60%;
+  border: none
+  padding: 10px;
+}
+
+.input-field{
+    width: 101%;
+    border: 1px solid #3856ec;
+    border-radius: 4%;
+    line-height: 2em;
+}
+
+.est-btn{
+width:85%;
+}
